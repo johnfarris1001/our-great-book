@@ -1,6 +1,6 @@
 # Architecto beatae vitae dicta sunt explicabo.
 
-Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo. This is all easily understandable.  Esse cillum dolore eu fugiat nulla pariatur. Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
+Facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo. This is all easily understandable. Esse cillum dolore eu fugiat nulla pariatur. Ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.
 
 Fugiat quo voluptas nulla pariatur? __Quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt.__ *Animi, id est laborum et dolorum fuga.* Animi, id est laborum et dolorum fuga.
 
